@@ -40,7 +40,7 @@ O projeto foi pensado como uma forma prática de aprendizado, unindo lógica de 
    ```
 
 bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/Calebe222/Mini-projetos-de-pedra-papel-e-tesoura..git
 
 ````
 3. Acesse a pasta do projeto:
